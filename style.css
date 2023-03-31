@@ -1,0 +1,15 @@
+/* .col{
+    padding: 1rem;
+    background: #33b5e5;
+    color: white;
+    border: 2px solid white;
+} */
+.align-items-end{
+    height: 500px;
+}
+.card{
+    width: 18rem;
+}
+.card img{
+    width: 18rem;
+}
